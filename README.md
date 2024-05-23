@@ -6,4 +6,7 @@ What is a relational database - Uses tables to organize data and relationships b
 
 What is SQL - Structured Query Language for managing and manipulating relational datbases. It is used to comminucate and perfom various operations on data stored in the database
 
-How to create a database in MySQL - 
+How to create a database in MySQL - Creating a database has a few steps:
+    1:
+    2:
+    3:
